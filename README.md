@@ -1,6 +1,8 @@
-<h3 align="center">FULL STACK CSE STUDENT</h3>
+- 👋 **Hi there!, I’m SANYAM**
 
 - 🌱 I’m currently learning **DSA,WEB DEV**
+
+- 👀 **I’m a Full Stack CSE Student**
 
 - 📫 You can reach me at: **sanyam21csu234@ncuindia.edu**
 
